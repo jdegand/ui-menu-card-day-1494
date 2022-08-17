@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Screenshots](#screenshots)
+- [Links](#links)
 - [Continued Development](#continued-development)
 - [Useful Resources](#useful-resources)
 
@@ -26,6 +27,10 @@
 ![](ui-menu-card-mobile-375px.png)
 
 ![](ui-menu-card-mobile-320px.png)
+
+## Links
+
+- [Github Pages](https://jdegand.github.io/ui-menu-card-day-1494)
 
 ## Continued Development
 
